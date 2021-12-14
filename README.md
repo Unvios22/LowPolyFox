@@ -1,6 +1,7 @@
 # LowPolyFox
 A small project for 3d modelling and animations courses at my uni. Created with Blender 2.79.\
-Released under the MIT License.
+Released under the MIT License.\
+Last updated 05.06.2019.
 
 ### Rigged 3d model:
 <img src="/renders/Poses.png" width="65%">
